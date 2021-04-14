@@ -10,18 +10,17 @@
 
 2. Copy nginx.conf to you nginx conf directory(e.g. /etc/nginx/):
 
-
 `cp nginx.conf /etc/nginx/`
+
 3. Reload nginx:
 
-
 `systemctl reload nginx`
-4. Check nginx works with new config
 
+4. Check nginx works with new config
 
 `systemctl status nginx`
 
-outputs
+outputs:
 
 ```
 [root@sb-test-01v ~]# systemctl status nginx
