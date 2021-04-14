@@ -6,8 +6,8 @@
 ## Usage
 1. Clone this ripository using `git clone`:
 
-
 `git clone [url to repository]`
+
 2. Copy nginx.conf to you nginx conf directory(e.g. /etc/nginx/):
 
 
@@ -59,8 +59,8 @@ yum install nginx -y
 
 ## Acknowledgments
 
-- [`rebraid devops training`] (https://rebrainme.com/devops/)
-- [`guthub documentation`] (https://git-scm.com/book/ru/v2/)
+- [`rebraid devops training`](https://rebrainme.com/devops/)
+- [`guthub documentation`](https://git-scm.com/book/ru/v2/)
 
 ## See Also
 
