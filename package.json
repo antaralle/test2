@@ -1,9 +1,9 @@
 {
-  "name": "common-readme",
-  "description": "Generates a readme for your node modules.",
-  "version": "1.1.0",
+  "name": "GIT 04 training",
+  "description": "This page generated for educational perpose, task git04, rebrain devops course",
+  "version": "0.1",
   "repository": {
-    "url": "git://github.com/noffle/common-readme.git"
+    "url": "git://github.com/antaralle/test2/test2.git"
   },
   "bin": {
     "common-readme": "cli.js"
@@ -12,6 +12,6 @@
     "camelcase": "^5.0.0",
     "minimist": "^1.2.0"
   },
-  "license": "ISC"
+  "license": "BSD"
 }
 
