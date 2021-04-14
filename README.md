@@ -5,8 +5,7 @@
 
 ## Usage
 1. Clone this ripository using `git clone`:
-
-`git clone [url to repository]`
+```git clone [url to repository]```
 2. Copy nginx.conf to you nginx conf directory(e.g. /etc/nginx/):
 
 `cp nginx.conf /etc/nginx/`
